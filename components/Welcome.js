@@ -8,6 +8,7 @@ export default function Welcome() {
     return(
         <View style={styles.container}>
           <Text>My name is {name}</Text>
+          
 
             </View>
 
